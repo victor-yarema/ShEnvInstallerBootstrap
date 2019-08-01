@@ -13,4 +13,4 @@ ShEnvInstallerBootstrap()
 	} &&
 	. ./"${F}"
 ) &&
-ShEnvInstallerBootstrap "${HOME}/Tools/ShEnvInstaller/Raw" 'https://raw.githubusercontent.com/victor-yarema/ShEnvInstaller/master/Main.sh?md5=d41d8cd98f00b204e9800998ecf8427e'
+ShEnvInstallerBootstrap "${HOME}/Tools/ShEnvInstaller/Raw" 'https://raw.githubusercontent.com/victor-yarema/ShEnvInstaller/master/Main.sh?md5=827d97fc75d93e2e5c779efe29859f7e'
